@@ -35,7 +35,6 @@ int main(void){
         j++;
     }
     
-
     printf("\nResult: %.4f", sum);
     return 0;
 }
